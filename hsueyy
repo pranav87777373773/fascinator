@@ -1,0 +1,8 @@
+print("welcome ")
+print("i can tell ur future")
+t=input("whats ur name:")
+print("Hi!"+t)
+print("ur age is between 20-22")
+y=input("yes or no :")
+print("ok"+y)
+print("nice talking you.Its hard but I predict you will be a dentist or a lecturer in college.Thankyou!")
