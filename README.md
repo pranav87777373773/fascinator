@@ -1,2 +1,0 @@
-# fascinator
-future ahead.
